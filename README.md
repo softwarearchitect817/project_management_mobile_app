@@ -19,12 +19,6 @@ Don't forget to star :star2: this repo.
 - Clone this repo. Go into the root folder and run *yarn* to install the dependencies.
 - From the terminal, run *yarn start* and *yarn android* or *yarn ios* to execute the app on a device or emulator.
 
-### Author
-
-👤 **Princewill Iroka**
-
-- Twitter: [@PrincewillIroka](https://twitter.com/PrincewillIroka)
-
 ### Credit
 UI designed by 👤 [Nurency](https://dribbble.com/shots/15225935-Task-Management-App)
 
